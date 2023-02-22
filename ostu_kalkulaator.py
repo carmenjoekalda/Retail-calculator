@@ -1,4 +1,4 @@
-kogus = input("Sisesta toote kogus: ")
+kogus = input("Sisesta toote kogused: ")
 hind = input("Sisesta toote hind: ")
 
 print("Toote kogus: " + kogus)
